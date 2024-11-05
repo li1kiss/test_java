@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Tekst edit
 Edit in clone
+=======
+Edit in clone 2
+>>>>>>> 538904a (edit in  clone file test_java)
